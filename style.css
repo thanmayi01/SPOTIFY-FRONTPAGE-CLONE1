@@ -23,14 +23,14 @@ html{
     flex: 1;
     border-radius: 1rem;
     overflow: auto;
-    padding:0 1.5rem 0 1.5rem;
+    padding:0 1rem 0 1rem;
 }
 
 .music-player{
     background-color: black;
     position: fixed;
     bottom: 0px;
-    height: 72px;
+    height: 70px;
     width: 100%;
 }
 
@@ -46,13 +46,13 @@ a{
     flex-direction: column;
     justify-content: center;
     height: 100px;
-    padding: 0.5rem 0.75rem;
+    padding: 0.65rem 0.75rem;
 }
 
 .nav-option{
     line-height: 2.5rem;
     opacity: 0.7;
-    padding: 0.5rem 0.75rem;
+    padding: 0.65rem 0.75rem;
 }
 
 .nav-option:hover{
@@ -60,12 +60,12 @@ a{
 }
 
 .nav-option i{
-    font-size: 1.25rem;
+    font-size: 1.20rem;
 }
 
 .nav-option a{
     font-size: 1rem;
-    margin-left: 1rem;
+    margin-left: 1.1rem;
 }
 
 .library{
@@ -111,7 +111,7 @@ a{
 
 .box-p1{
     font-size: 1rem;
-    font-weight:500;
+    font-weight:501;
 }
 
 .box-p2{
